@@ -197,7 +197,7 @@ public class Vue_GestionMoniteur extends JFrame implements ActionListener
 		this.btModifier.addActionListener(this);
 		this.btLister.addActionListener(this);
 		this.btRechercher.addActionListener(this);
-		this.btSup	primer.addActionListener(this);
+		this.btSupprimer.addActionListener(this);
 		this.btQuitter.addActionListener(this);
 		this.btAnnuler.addActionListener(this);
 		this.btAnnuler1.addActionListener(this);
